@@ -1,0 +1,1 @@
+export * from '../build/ProfileFactory/tact_Profile';

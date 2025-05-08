@@ -1,0 +1,78 @@
+{
+    "name": "Blockchain Development Course",
+    "description": "Enroll in this comprehensive course to master blockchain development. Upon successful completion, receive an NFT certificate as proof of your achievement.",
+    "image": "https://example.com/course-thumbnail.png",
+    "video": "https://example.com/course-intro.mp4",
+    "attributes": {
+        "category": "Education",
+        "duration": "12 weeks",
+        "level": "Beginner to Advanced",
+        "lessons": 30
+    },
+    "course_materials": {
+        "modules": [
+            {
+                "title": "Introduction to Blockchain",
+                "description": "Understanding the fundamentals of blockchain technology.",
+                "materials": {
+                    "video": "https://example.com/module1.mp4",
+                    "pdf": "https://example.com/module1.pdf"
+                }
+            },
+            {
+                "title": "Introduction to Blockchain",
+                "description": "Understanding the fundamentals of blockchain technology.",
+                "materials": {
+                    "video": "https://example.com/module1.mp4",
+                    "pdf": "https://example.com/module1.pdf"
+                }
+            }
+        ],
+        "quizes": [
+            {
+                "title": "Blockchain Basics Quiz",
+                "questions": [
+                    {
+                        "question": "What is a blockchain?",
+                        "answers": [
+                            "A centralized database",
+                            "A distributed ledger technology",
+                            "A type of cryptocurrency",
+                            "A cloud storage service"
+                        ]
+                    },
+                    {
+                        "question": "Which consensus mechanism is used in Bitcoin?",
+                        "answers": [
+                            "Proof of Stake",
+                            "Proof of Work",
+                            "Delegated Proof of Stake",
+                            "Proof of Authority"
+                        ]
+                    }
+                ],
+                "correct_answers": "asjfiehkld //encrypted by educator public key"
+            }
+        ]
+    },
+    "social_links": [
+        "https://t.me/BlockchainCourse"
+    ],
+
+
+
+    "courseCompletion": [
+        {
+            "gradeHighThan": "50",
+            "certificate": "ipfs:wefo;ioijfasd"
+        },
+        {
+            "gradeHighThan": "70",
+            "certificate": "ipfs:faioeioijfasd"
+        },
+        {
+            "gradeHighThan": "90",
+            "certificate": "ipfs:sfjdaohfeiow"
+        }
+    ]
+}

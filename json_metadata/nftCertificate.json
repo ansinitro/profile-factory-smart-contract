@@ -1,0 +1,35 @@
+{
+    "name": "Blockchain Development Course Certificate",
+    "description": "This NFT certificate is awarded upon successful completion of the Blockchain Development Course, recognizing your expertise in blockchain technology.",
+    "image": "https://example.com/images/certificate.png",
+    "content_url": "https://example.com/certificates/blockchain_course_certificate.pdf",
+    "attributes": [
+        {
+            "trait_type": "Completion Status",
+            "value": "Well-Completed"
+        },
+        {
+            "trait_type": "Average Grade",
+            "value": "92%"
+        },
+        {
+            "trait_type": "Completion Date",
+            "value": "2025-02-22"
+        },
+        {
+            "trait_type": "Instructor",
+            "value": "Dr. Jane Doe"
+        },
+        {
+            "trait_type": "Student_IIN",
+            "value": "050204814823"
+        },
+        {
+            "trait_type": "email",
+            "value": "15aak@gmail.com"
+        }
+    ], 
+    "quiz_grades": [
+        "100%", "100%", "100%", "70%", "90%"
+    ]
+}
